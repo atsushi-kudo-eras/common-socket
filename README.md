@@ -49,31 +49,14 @@ Follow the steps below.
 
 ## Run Client
 
-wip
+Follow the steps below.
 
-## Setting for socket.io TS
-Please refer to below URL.
-https://socket.io/docs/v4/typescript/#types-for-the-server
+1. Change directory.
 
+```cd client```
 
+2. Run one of the following start script.
 
-# Document
-This section provide explanation of this repository.
+```yarn dev```
 
-
-## Server side
-Server side consists below modules.
-
-### Dependencies
-1. express
-
-    express works hogehoge wip.
-
-2. socket.io
-3. socket.io-client
-
-### Dependencies on development
-1. typescript
-2. nodemon
-3. ts-node
-
+```npm dev```
