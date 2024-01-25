@@ -9,26 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
-    "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "next": "14.1.0"
   },
   "devDependencies": {
-    "@storybook/builder-webpack5": "^7.6.10",
-    "@storybook/manager-webpack5": "^6.5.16",
-    "@types/lodash": "^4.14.202",
+    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "babel-plugin-module-resolver": "^5.0.0",
-    "css-loader": "^6.9.1",
     "eslint": "^8",
-    "eslint-config-next": "14.1.0",
-    "sass": "^1.70.0",
-    "sass-loader": "^10",
-    "style-loader": "^3.3.4",
-    "typescript": "^5",
-    "webpack": "^5.90.0"
+    "eslint-config-next": "14.1.0"
   }
 }
