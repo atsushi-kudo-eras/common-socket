@@ -1,5 +1,5 @@
 import express from 'express';
-import config from './environment/config';
+import config from './environments/config';
 import { createServer } from 'node:http';
 
 const app = express();
